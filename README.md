@@ -1,3 +1,3 @@
 # hello-world
 hello
-estou aperndendo o github
+estou aprendendo o github
